@@ -1,1 +1,1 @@
-"#GBA_Pong" 
+Pong game created using mode 4 of the GBA. Structs for the paddle and ball are used and manipulated in place of sprites. AI is simple and just moves top to bottom on the screen. When a player scores 5 points game resets to 0 points
